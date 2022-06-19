@@ -1,4 +1,4 @@
-O 1º script retorna um Json com Os meta-dados de um site em um array.
+O 1º script retorna um Json com os meta-dados de um site em um array.
 
 O 2ª faz a utilização de APIS para descobrir a temperatura em Cº através do CEP digitado pelo usuário.
 
