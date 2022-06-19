@@ -32,7 +32,3 @@ dicionario['Horas'] = horas
 df = pd.DataFrame(data=dicionario)
 df.to_excel("dicionario.xlsx", index=False) #Convertendo em Excel
 
-
-#OBS: Eu não entendi a última parte do exercício
-
-#OBS: Mas reafirmo que estou disposto EXTREMAMENTE disposto a aprender e contribuir gerando valor a empresa
